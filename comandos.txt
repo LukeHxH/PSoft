@@ -1,3 +1,5 @@
 ssh -p 25002 lucas.medeiros@150.165.85.16
 
+scp -P 25002 [files] lucas.medeiros@150.165.85.16:public_html/
+
 IP: 150.165.85.16 
