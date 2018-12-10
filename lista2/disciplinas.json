@@ -1,0 +1,222 @@
+[
+    {
+      "nome": "Leitura e Produção de Textos",
+      "periodo": 1,
+      "creditos": 4
+    },
+    {
+      "nome": "Cálculo Diferencial e Integral I",
+      "periodo": 1,
+      "creditos": 4
+    },
+    {
+      "nome": "Álgebra Vetorial e Geometria Analítica",
+      "periodo": 1,
+      "creditos": 4
+    },
+    {
+      "nome": "Programação I",
+      "periodo": 1,
+      "creditos": 4
+    },
+    {
+      "nome": "Introdução à Computação",
+      "periodo": 1,
+      "creditos": 4
+    },
+    {
+      "nome": "Laboratório de Programação I",
+      "periodo": 1,
+      "creditos": 4
+    },
+    {
+      "nome": "Metodologia Cientifica",
+      "periodo": 2,
+      "creditos": 4
+    },
+    {
+      "nome": "Cálculo Diferencial e Integral I",
+      "periodo": 2,
+      "creditos": 4
+    },
+    {
+      "nome": "Fundamentos de Física Clássica",
+      "periodo": 2,
+      "creditos": 4
+    },
+    {
+      "nome": "Matemática Discreta",
+      "periodo": 2,
+      "creditos": 4
+    },
+    {
+      "nome": "Laboratório de Programação II",
+      "periodo": 2,
+      "creditos": 4
+    },
+    {
+      "nome": "Programação II",
+      "periodo": 2,
+      "creditos": 4
+    },
+    {
+      "nome": "Teoria dos Grafos",
+      "periodo": 2,
+      "creditos": 2
+    },
+    {
+      "nome": "Àlgebra Linear",
+      "periodo": 3,
+      "creditos": 4
+    },
+    {
+      "nome": "Fundamentos de Física Moderna",
+      "periodo": 3,
+      "creditos": 4
+    },
+    {
+      "nome": "Teoria da Computação",
+      "periodo": 3,
+      "creditos": 4
+    },
+    {
+      "nome": "Estrutura de Dados e Algoritmos",
+      "periodo": 3,
+      "creditos": 4
+    },
+    {
+      "nome": "Lab. de Estrutura de Dados e Algoritmos",
+      "periodo": 3,
+      "creditos": 4
+    },
+    {
+      "nome": "Gerência da Informação",
+      "periodo": 3,
+      "creditos": 4
+    },
+    {
+      "nome": "Probabilidade e Estátistica",
+      "periodo": 3,
+      "creditos": 4
+    },
+    {
+      "nome": "Métodos Estátisticos",
+      "periodo": 4,
+      "creditos": 4
+    },
+    {
+      "nome": "Paradigmas de Linguagem de Programação",
+      "periodo": 4,
+      "creditos": 4
+    },
+    {
+      "nome": "Lógica Matemática",
+      "periodo": 4,
+      "creditos": 4
+    },
+    {
+      "nome": "Org. e Arquitetura de Computadores I",
+      "periodo": 4,
+      "creditos": 4
+    },
+    {
+      "nome": "Lab. de Org. e Arquitetura de Computadores I",
+      "periodo": 4,
+      "creditos": 4
+    },
+    {
+      "nome": "Engenharia de Software I",
+      "periodo": 4,
+      "creditos": 4
+    },
+    {
+      "nome": "Sistemas de Informação I",
+      "periodo": 4,
+      "creditos": 4
+    },
+    {
+      "nome": "Informática e Sociedade",
+      "periodo": 5,
+      "creditos": 2
+    },
+    {
+      "nome": "Laboratório de Engenharia de Software",
+      "periodo": 5,
+      "creditos": 4
+    },
+    {
+      "nome": "Análise e Técnica de Algoritmos",
+      "periodo": 5,
+      "creditos": 4
+    },
+    {
+      "nome": "Compiladores",
+      "periodo": 5,
+      "creditos": 4
+    },
+    {
+      "nome": "Redes de Computadores",
+      "periodo": 5,
+      "creditos": 4
+    },
+    {
+      "nome": "Banco de Dados I",
+      "periodo": 5,
+      "creditos": 4
+    },
+    {
+      "nome": "Sistemas de Informação II",
+      "periodo": 5,
+      "creditos": 4
+    },
+    {
+      "nome": "Direito e Cidadania",
+      "periodo": 6,
+      "creditos": 4
+    },
+    {
+      "nome": "Lab. de Intercon. de Redes de Computadores",
+      "periodo": 6,
+      "creditos": 4
+    },
+    {
+      "nome": "Interconexão de Redes de Computadores",
+      "periodo": 6,
+      "creditos": 4
+    },
+    {
+      "nome": "Sistemas Operacionais",
+      "periodo": 6,
+      "creditos": 4
+    },
+    {
+      "nome": "Banco de Dados II",
+      "periodo": 6,
+      "creditos": 4
+    },
+    {
+      "nome": "Inteligência Artificial I",
+      "periodo": 6,
+      "creditos": 4
+    },
+    {
+      "nome": "Projeto em Computação I",
+      "periodo": 7,
+      "creditos": 4
+    },
+    {
+      "nome": "Métodos e Software Númericos",
+      "periodo": 7,
+      "creditos": 4
+    },
+    {
+      "nome": "Aval. de Desempenho de Sistemas Discretos",
+      "periodo": 7,
+      "creditos": 4
+    },
+    {
+      "nome": "Projeto em Computação II",
+      "periodo": 8,
+      "creditos": 4
+    }
+  ]
