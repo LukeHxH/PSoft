@@ -1,5 +1,5 @@
-const widget_altura = document.getElementsByTagName("input")[0];
-const widget_peso = document.getElementsByTagName("input")[1];
+const widget_altura = document.querySelector("#altura");
+const widget_peso = document.querySelector("#peso");
 const widget_imc = document.getElementById("imc");
 const widget_classificacao = document.getElementById("classificacao");
 
@@ -7,6 +7,10 @@ function calcule_imc() {
     const peso = Number(widget_peso.value);
     const altura = Number(widget_altura.value);
     imc = Math.round(valor_imc(peso, altura) * 10) / 10;
+    atualiza(imc);
+}
+
+function atualiza(imc) {
     if (imc) {
         widget_imc.innerText = imc;
         widget_classificacao.innerText = classificacao_imc(imc)
