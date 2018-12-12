@@ -1,11 +1,11 @@
-var _disciplinas = [];
+let _disciplinas = [];
 
 function carrega_disciplinas() {
-    const promise = fetch("disciplinas.json")
-                    .then(response => response.json())
-                    .then(disciplina => _disciplinas = disciplina);
+    const promessa_disciplinas = fetch("disciplinas.json")
+                                .then(response => response.json())
+                                .then(disciplinas => _disciplinas = disciplinas);
 
-    return promise;
+    return promessa_disciplinas;
 }
 
 const disciplinas = function() { return _disciplinas; }

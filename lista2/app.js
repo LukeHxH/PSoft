@@ -14,8 +14,8 @@ function criaVisuDisciplina(disciplina) {
 
     $disciplina.classList.add("disciplina");
     $disciplina.style.gridColumn = disciplina.periodo;
-    $disciplina.innerHTML = `
-    <p class="nome">${disciplina.nome}</p>
+    $disciplina.innerHTML = 
+    `<p class="nome">${disciplina.nome}</p>
     <div class="dados">
         <span>Créditos: ${disciplina.creditos}</p>
         <span>Período: ${disciplina.periodo}</p>
