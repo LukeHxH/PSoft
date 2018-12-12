@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #BFC0C0;
+}
+
+header {
+    background-color: darkslategrey;
+    width: 100%;
+}
+
+#title {
+    padding: 5px;
+    color: azure;
+    font-family: 'Lato', sans-serif;
+    min-width: 600px;
+}
+
+#fluxograma {
+    margin: 1em;
+    display: grid;
+    min-width: 600px;
+    font-family: 'Century Gothic', sans-serif;
+    font-size: 12px;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(7, 1fr);
+    grid-auto-flow: column;
+    grid-gap: 1em;
+}
+
+.disciplina {
+    background-color: azure;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.disciplina:hover {
+    background-color: darkslategrey;
+    color: azure;
+}
+
+.nome {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.dados {
+    font-size: 11px;
+    margin-top: 2px;
+    display: flex;
+    justify-content: space-between;
+}
